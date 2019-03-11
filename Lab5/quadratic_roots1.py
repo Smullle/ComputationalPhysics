@@ -67,4 +67,4 @@ while (ans == "Y" or ans == "y"):
           "{0:<20.3f}".format(ans_root2))
     
     #ask the user if they want to continue
-    ans = input("\nDo you want to try another cone (Y/N): ")
+    ans = input("\nDo you want to try another (Y/N): ")
